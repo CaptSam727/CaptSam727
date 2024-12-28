@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptSam727
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning backend web development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on web-based applications
 - 📫 How to reach me: email - suman31502@gmail.com
 
